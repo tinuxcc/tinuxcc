@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tinuxcc
 - 🌱 I’m currently learning JavaScript and Golang
 - 📫 You can contact me by email tinuxcc@gmail.com
+- 💕 
