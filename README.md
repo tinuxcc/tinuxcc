@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinuxcc
-- 🎯 I am familiar with JavaScript, Golang, C/C++ and Rust
+- 🎯 I am familiar with JavaScript, Golang, C/C++
 - 🌱 I am currently learning reverse engineering
 - 📫 You can contact me by email tinuxcc@gmail.com
 - 💕 
